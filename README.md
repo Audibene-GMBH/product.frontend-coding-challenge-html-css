@@ -2,7 +2,7 @@
 
 Thank you for applying to hear.com as a Front End developer. We would like to get a general idea of your expertise and give you the chance to show us your skills.
 
-This challenge will involve converting a visual design to HTML and CSS. In order to view the design, please create a [Figma](https://www.figma.com/) account.
+This challenge will involve converting a visual design to HTML and CSS. In order to view and interact with the design, please create a [Figma](https://www.figma.com/) account.
 
 **The challenge**
 
