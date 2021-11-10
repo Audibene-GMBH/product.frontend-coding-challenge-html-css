@@ -26,7 +26,7 @@ This challenge will involve converting a visual design to HTML and CSS. In order
 
 **Setting**
 
-We expect you to invest about 4-6 hours for this challenge. We prefer quality over quantity. The level of feature completeness, documentation, tests is subject to your decision making. Feel free to make any trade-offs and document your decisions. Think: product management is on vacation and not available.
+We expect you to invest about 4-6 hours for this challenge. We prefer quality over quantity. The level of feature completeness, documentation etc.. is subject to your decision making. Feel free to make any trade-offs and document your decisions. Think: product management is on vacation and not available.
 
 **Deliverable**
 
