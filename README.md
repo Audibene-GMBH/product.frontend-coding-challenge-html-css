@@ -6,8 +6,8 @@ This challenge will involve converting a visual design to HTML and CSS. In order
 
 **The challenge**
 
- Please convert the following [Figma design](https://www.figma.com/file/5zbl0XzHHyi75zm3YqzPwv/Front-End-Coding-Challenge?node-id=0%3A1) to responsive HTML and CSS.
-	- Please note that there are two versions of the page: 1) mobile and 2) desktop.
+Please convert the following [Figma design](https://www.figma.com/file/5zbl0XzHHyi75zm3YqzPwv/Front-End-Coding-Challenge?node-id=0%3A1) to responsive HTML and CSS.
+ * Please note that there are two versions of the page: 1) mobile and 2) desktop.
 
 **Things to focus on**
 
